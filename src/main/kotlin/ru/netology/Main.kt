@@ -1,7 +1,7 @@
 package ru.netology
 
 fun main() {
-    val itemPrice = 1
+    val itemPrice = 100
     val discountOneHundred = 100
     val discountOneLevel = 1_001
     val discountTwoLevel = 10_001
