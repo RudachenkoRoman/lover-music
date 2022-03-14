@@ -13,7 +13,7 @@ fun main() {
     var result: Double
     val totalPrice: Int
     if (itemCount <= 0) {
-        println("Вы ввели неверную сумму. Сумма должна быть больше 0")
+        println("Вы ввели неверное количество. Количество должно быть больше 0")
         return
     } else {
         totalPrice = itemPrice * itemCount
